@@ -3,7 +3,6 @@ Coffee Machine Project ☕
 Overview
 This Coffee Machine Project is a C# console application simulating the functionality of a real-world coffee machine. The program allows users to select different types of coffee, specify sugar and milk preferences, and process payments. The project showcases object-oriented programming (OOP) principles and is designed to be modular, reusable, and easily extensible.
 
-
 Features
 =========
 Menu Options: Offers various coffee types like Espresso, Latte, and Cappuccino.
