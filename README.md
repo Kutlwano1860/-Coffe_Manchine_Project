@@ -11,7 +11,6 @@ Payment Processing: Simulates payment using a simple validation mechanism.
 Inventory Management: Tracks available resources (water, coffee, milk).
 Error Handling: Provides feedback for invalid inputs or insufficient resources.
 
-
 Prerequisites
 =========
 To run this project, you need:
