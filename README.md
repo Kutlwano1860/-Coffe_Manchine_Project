@@ -1,44 +1,37 @@
 Coffee Machine Project ☕
--------------------------
+=========================
 Overview
 This Coffee Machine Project is a C# console application simulating the functionality of a real-world coffee machine. The program allows users to select different types of coffee, specify sugar and milk preferences, and process payments. The project showcases object-oriented programming (OOP) principles and is designed to be modular, reusable, and easily extensible.
-=======================================================================================
+
 
 Features
----------
+=========
 Menu Options: Offers various coffee types like Espresso, Latte, and Cappuccino.
 Customization: Allows users to adjust sugar and milk levels.
 Payment Processing: Simulates payment using a simple validation mechanism.
 Inventory Management: Tracks available resources (water, coffee, milk).
 Error Handling: Provides feedback for invalid inputs or insufficient resources.
-========================================================================================
+
 
 Prerequisites
---------------
+=========
 To run this project, you need:
 
 .NET SDK: Version 6.0 or higher
 IDE: Visual Studio, Rider, or any code editor with C# support
 Operating System: Windows, macOS, or Linux
-=======================================================================================
+
 
 How to Run
------------
+==========
 Clone the Repository:
----------------------
 git clone https://github.com/YourUsername/CoffeeMachineProject.git
-
 Navigate to the Project Directory:
----------------------------------
 cd CoffeeMachineProject
-
 Build the Project:
------------------
 dotnet build
 Run the Application:
--------------------
 dotnet run
-
 
 Code Structure
 ==============
